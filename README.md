@@ -18,13 +18,13 @@ There is a significant target class imbalance because of approximately 86% of "F
 ![](Images/Should%20I%20Stay%20or%20Should%20I%20Go.png)
 
 
-Customers are more likely to leave if they call customer service more than three times
+**Customers are more likely to leave if they call customer service more than three times**
 
 
 
 ![](Images/Customer_Services_calls.png)
 
-42% of the customers who have an international plan will leave, so Syriatel should work on their international plan pricing
+**42% of the customers who have an international plan will leave, so Syriatel should work on their international plan pricing**
 
 
 ![](Images/International_Plan.png)
