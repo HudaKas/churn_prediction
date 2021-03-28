@@ -1,4 +1,4 @@
 # Customer Churn Prediction Project
 
 
-![Alt text](/relative//Users/hudakassoumeh/Documents/Flatiron/Projects/churn_prediction/Images/stay_go_700w-640x350.jpg/to/img.jpg?raw=true "Optional Title")
+![Alt text](<iframe src="https://giphy.com/embed/WpObP6Qx5QXq9TxHyh" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mood-WpObP6Qx5QXq9TxHyh">via GIPHY</a></p>)
