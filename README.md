@@ -1,4 +1,7 @@
 # Customer Churn Prediction Project
 
 
-![Alt text](Images/readme.jpg)
+<p align="center">
+  <img width="460" height="300" src="Images/readme.jpg">
+</p>
+
