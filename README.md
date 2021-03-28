@@ -25,6 +25,8 @@ Customers are more likely to leave if they call customer service more than three
 ![](Images/Customer_Services_calls.png)
 
 42% of the customers who have an international plan will leave, so Syriatel should work on their international plan pricing
+
+
 ![](Images/International_Plan.png)
 
 ### Conclusions
