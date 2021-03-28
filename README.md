@@ -1,4 +1,4 @@
 # Customer Churn Prediction Project
 
 
-![Stay or go from giphy](https://gph.is/g/EJlDJ1Q)
+![Alt text](/relative//Users/hudakassoumeh/Documents/Flatiron/Projects/churn_prediction/Images/stay_go_700w-640x350.jpg/to/img.jpg?raw=true "Optional Title")
