@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="Images/readme.jpg">
+  <img width="860" height="300" src="Images/readme.jpg">
 </p>
 
