@@ -15,16 +15,13 @@ The Syriatel dataset is from the Kaggle website. The dataset consists of 3333 cu
 ## Observasion
 
 There is a significant target class imbalance because of approximately 86% of "False " and 14% of "True" This imbalance will affect our prediction,  I will deal with it by using SMOTE to balance the target.
-
 ![](images/Should%20I%20Stay%20or%20Should%20I%20Go.png)
 
 
 Customers are more likely to leave if they call customer service more than three times
-
 ![](images/Customer_Services_calls.png)
 
 42% of the customers who have an international plan will leave, so Syriatel should work on their international plan pricing
-
 ![](images/International_Plan.png)
 
 ### Conclusions
